@@ -1,4 +1,3 @@
-# Tshireletso_Mpudu
 # Hello!👋
  **My name is Tshireletso Mpudu, I am a driven and passionate software developer in making. I am eagerly diving into the world of software development.**
 
