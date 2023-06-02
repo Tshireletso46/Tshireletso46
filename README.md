@@ -6,3 +6,12 @@ I believe in the power of technology to make a positive impact on society. With 
 can transform lives, streamline processes, and shape a better future.Feel free to explore my GitHub repository and reach out to me for any collaborations or opportunities. 
 
 Together, we can bring ideas to life and make a difference through software development.
+
+
+- 🌱 I'm currently learning **web development**
+
+- 💬 Ask me about **HTML, CSS & JavaScript**
+
+- 📫 How to reach me: **tshirempudu@gmail.com**
+
+- ⚡ Fun fact about me: **I'm funny**
